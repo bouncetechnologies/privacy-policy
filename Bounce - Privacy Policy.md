@@ -87,7 +87,9 @@ We only provide internal data access to trained individuals within Bounce Techno
 
 To enable the services offered to you through Bounce’s website and bot, the personal data which you provide to us may be transferred to countries outside the European Union (“EU”). These countries may not have similar data protection laws to the EU. If we transfer your personal data outside of the EU in this way, we will take steps to ensure that appropriate security measures are taken in order to ensure that your privacy rights continue to be protected as outlined in this Policy, by only transferring personal data to companies certified under the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework where possible. In addition, as highlighted above our service relies on Facebook and Chatfuel who may store your personal data outside the EU. In addition, if you use our services while you are outside the EU, your persona data may be transferred outside the EU in order for us to provide you with those services.
 Facebook and Chatfuel will also transfer your personal data outside of the EU. For details of the security measures they implement in order to ensure your right are protected, please visit their website:
+
 Facebook:  [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) 
+
 Chatfuel:  [https://chatfuel.com/PrivacyPolicy.pdf](https://chatfuel.com/PrivacyPolicy.pdf) 
 
 **Your data protection rights**
