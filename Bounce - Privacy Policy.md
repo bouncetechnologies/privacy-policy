@@ -82,8 +82,11 @@ We will hold your personal data (including sensitive personal data) on our syste
 **Who has access to your personal data**
 
 Bounce’s Messenger bot is built on top of both Facebook Messenger and a 3rd party bot platform called Chatfuel. This means that all messages sent to our Messenger bot are also collected by Facebook and Chatfuel, and stored under the terms of their respective Privacy Policies, which must be agreed to separately:
+
 Facebook:  [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) 
+
 Chatfuel:  [https://chatfuel.com/PrivacyPolicy.pdf](https://chatfuel.com/PrivacyPolicy.pdf) 
+
 We only provide internal data access to trained individuals within Bounce Technologies Limited, who have an understanding of GDPR and its implications. All personal data that you provide through the services is stored on Amazon Web Services, and you can find out more about their data privacy policies and procedures here:  [https://aws.amazon.com/compliance/data-privacy-faq/](https://aws.amazon.com/compliance/data-privacy-faq/) 
 
 **Transferring your personal data outside of Europe:**
