@@ -6,6 +6,7 @@ Any questions regarding this Policy and our privacy practices should be sent by 
 We are only able to provide you with the services (including use of our website or our Facebook Messenger bot) under the conditions of this privacy policy.
 
 **Who we are**
+
 Bounce Technologies Limited is a Brighton-based startup whose core mission is to inspire and support everyone to better look after their mental wellbeing. To this end, we have built a Messenger bot that takes the best positive psychology exercises that have been shown to help improve your mental resilience and make them accessible. Bounce Technologies Limited is a Private limited Company registered in the UK, with company number 10805448. Our registered address is: Bounce Technologies Limited, The Old Casino, 28 Fourth Avenue, Hove, East Sussex, BN3 2PJ.
 
 **Who controls the personal data we collect from you**
