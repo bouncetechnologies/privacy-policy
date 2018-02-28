@@ -2,7 +2,7 @@
 
 At Bounce Technologies Limited, we’re committed to protecting and respecting your privacy. This Privacy Policy explains when and why we collect personal data (including sensitive personal data) about people who visit our website and our Facebook Messenger bot, how we use it, the conditions under which we may disclose it to others and how we keep it secure.
 
-We will update this Policy from time to time, so please check this page regularly to ensure that you’re happy with any changes, or alternatively follow our Twitter account,  [https://twitter.com/bounce_bot](https://twitter.com/bounce_bot) , for Privacy Policy updates. You can also see exactly what’s changed between versions of our privacy policy on our Github repository: [https://github.com/bouncetechnologies/privacy-policy · GitHub](https://github.com/bouncetechnologies/privacy-policy)
+We will update this Policy from time to time, so please check this page regularly to ensure that you’re happy with any changes, or alternatively follow our Twitter account,  [https://twitter.com/bounce_bot](https://twitter.com/bounce_bot) , for Privacy Policy updates. You can also see exactly what’s changed between versions of our privacy policy on our Github repository: [https://github.com/bouncetechnologies/privacy-policy](https://github.com/bouncetechnologies/privacy-policy)
 
 Any questions regarding this Policy and our privacy practices should be sent by email to  [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io) , or by writing to Bounce Technologies Limited, 149 Preston Road, Brighton, BN1 6AF. Please also feel free to provide feedback, suggestions or improvements you feel we can make to this Privacy Policy, as we are always looking for ways to improve the way we protect our customers’ privacy, and better meet our customers’ needs.
 
@@ -18,7 +18,7 @@ Under the GDPR (General Data Protection Regulation), Bounce Technologies Limited
 
 If you would like a copy of some or all of the personal data we hold about you, or if you have any concerns about how we have handled your personal data, in the first instance please send an email addressed to our Data Protection Officer at  [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io) , or write to: Data Protection Officer, Bounce Technologies Limited, 149 Preston Road, Brighton, BN1 6AF.
 
-If you are not satisfied with our response, you can also raise a concern with the ICO ( [https://ico.org.uk/](https://ico.org.uk/) ) with our company’s registration reference (ZA296666). Please go to  [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/)  for more information about raising a concern with the ICO.
+If you are not satisfied with our response, you can also raise a concern with the ICO ([https://ico.org.uk/](https://ico.org.uk/)) with our company’s registration reference (ZA296666). Please go to  [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/)  for more information about raising a concern with the ICO.
 
 **How we collect personal data from you**
 
@@ -47,7 +47,7 @@ To provide Bounce as a service, we collect personal data (including sensitive pe
 1. Personal data: first name, last name, gender, locale, timezone, email address, details of all the messages that are sent to Bounce and employer details if you have signed up to Bounce through a company wellbeing program. In addition, 
 2. Sensitive personal data: 
 	1. Mental health metrics: Bounce’s Facebook Messenger bot asks individuals regular questions about their resilience, stress, anxiety and depression levels. Bounce will never share this sensitive personal data with companies or 3rd parties on an individually identifiable basis. We may share anonymised aggregated data, from which you are no longer personally identifiable, to help us with research, or if you have signed up through an employer’s wellbeing program to provide insights to your employer. Anonymised non-aggregated data may be shared with partner universities for the purposes of academic research.
-	2. Financial data: Bounce collects financial data if you sponsor us, or pay for our services. This data is stored with our 3rd party payment provider, Stripe ( [https://stripe.com/gb](https://stripe.com/gb) ).
+	2. Financial data: Bounce collects financial data if you sponsor us, or pay for our services. This data is stored with our 3rd party payment provider, Stripe ([https://stripe.com/gb](https://stripe.com/gb)).
 
 **Basis for processing, and why we need to do it**
 
