@@ -24,7 +24,7 @@ If you are not satisfied with our response, you can also raise a concern with th
 
 We obtain personal data about you when you use our Messenger bot, and we also collect web analytics and marketing data from you when you visit our website using cookies, web beacons and similar technologies, some of which are provided by third parties, as described below. We will also obtain contact details, such as your name and email address from your employer where your employer has requested our services.
 
-### Cookies:
+### Cookies
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide data to the owners of websites. We use the following cookies:
 1. Google Analytics (cookie names: _ga, _gat_gtag_UA_101402983_1 and _gid)
@@ -32,7 +32,7 @@ Cookies are small text files that are placed on your computer by websites that y
 
 These cookies are used to collect data about how visitors use our website. We use the data to compile reports and to help us improve the website, and for marketing, advertising and promotional purposes strictly related to Bounce Technologies Limited. The cookies collect data in an anonymous form, including the number of visitors to the website, where visitors have come to the website from and the pages they visited.
 
-### Web beacons:
+### Web beacons
 
 Small graphic images (also known as “pixel tags” or “clear GIFs”) that may be included on our sites, services, applications, messaging, and tools, that typically work in conjunction with cookies to identify our users and user behavior. We use the following web beacons:
 -* Facebook Pixel (cookie names: act, c_user, datar, dpr, fr, pl, presence, sb, wd and xs)
