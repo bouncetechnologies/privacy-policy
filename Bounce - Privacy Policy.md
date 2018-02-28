@@ -2,9 +2,9 @@
 
 At Bounce Technologies Limited, we’re committed to protecting and respecting your privacy. This Privacy Policy explains when and why we collect personal data (including sensitive personal data) about people who visit our website and our Facebook Messenger bot, how we use it, the conditions under which we may disclose it to others and how we keep it secure.
 
-We will update this Policy from time to time, so please check this page regularly to ensure that you’re happy with any changes, or alternatively follow our Twitter account,  [https://twitter.com/bounce_bot](https://twitter.com/bounce_bot) , for Privacy Policy updates. You can also see exactly what’s changed between versions of our privacy policy on our Github repository: [https://github.com/bouncetechnologies/privacy-policy](https://github.com/bouncetechnologies/privacy-policy)
+We will update this Policy from time to time, so please check this page regularly to ensure that you’re happy with any changes, or alternatively follow our Twitter account, [https://twitter.com/bounce_bot](https://twitter.com/bounce_bot), for Privacy Policy updates. You can also see exactly what’s changed between versions of our privacy policy on our Github repository: [https://github.com/bouncetechnologies/privacy-policy](https://github.com/bouncetechnologies/privacy-policy)
 
-Any questions regarding this Policy and our privacy practices should be sent by email to  [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io) , or by writing to Bounce Technologies Limited, 149 Preston Road, Brighton, BN1 6AF. Please also feel free to provide feedback, suggestions or improvements you feel we can make to this Privacy Policy, as we are always looking for ways to improve the way we protect our customers’ privacy, and better meet our customers’ needs.
+Any questions regarding this Policy and our privacy practices should be sent by email to [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io), or by writing to Bounce Technologies Limited, 149 Preston Road, Brighton, BN1 6AF. Please also feel free to provide feedback, suggestions or improvements you feel we can make to this Privacy Policy, as we are always looking for ways to improve the way we protect our customers’ privacy, and better meet our customers’ needs.
 
 We are only able to provide you with the services (including use of our website or our Facebook Messenger bot) under the conditions of this privacy policy.
 
@@ -16,9 +16,9 @@ Bounce Technologies Limited is a Brighton-based startup whose core mission is to
 
 Under the GDPR (General Data Protection Regulation), Bounce Technologies Limited is known as a data “Controller” of the personal data you provide us. We are registered with the ICO (Information Commissioner’s Officer) in the UK with registration reference ZA296666.
 
-If you would like a copy of some or all of the personal data we hold about you, or if you have any concerns about how we have handled your personal data, in the first instance please send an email addressed to our Data Protection Officer at  [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io) , or write to: Data Protection Officer, Bounce Technologies Limited, 149 Preston Road, Brighton, BN1 6AF.
+If you would like a copy of some or all of the personal data we hold about you, or if you have any concerns about how we have handled your personal data, in the first instance please send an email addressed to our Data Protection Officer at [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io), or write to: Data Protection Officer, Bounce Technologies Limited, 149 Preston Road, Brighton, BN1 6AF.
 
-If you are not satisfied with our response, you can also raise a concern with the ICO ([https://ico.org.uk/](https://ico.org.uk/)) with our company’s registration reference (ZA296666). Please go to  [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/)  for more information about raising a concern with the ICO.
+If you are not satisfied with our response, you can also raise a concern with the ICO ([https://ico.org.uk/](https://ico.org.uk/)) with our company’s registration reference (ZA296666). Please go to [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/) for more information about raising a concern with the ICO.
 
 ## How we collect personal data from you
 
@@ -39,7 +39,7 @@ Small graphic images (also known as “pixel tags” or “clear GIFs”) that m
 
 ### How to change your cookie settings
 
-Most web browsers allow some control of cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org)  or  [www.allaboutcookies.org](http://www.allaboutcookies.org). To opt out of being tracked by Google Analytics across all websites visit  [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
+Most web browsers allow some control of cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org) or [www.allaboutcookies.org](http://www.allaboutcookies.org). To opt out of being tracked by Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
 ### What personal data we collect
 
@@ -83,20 +83,20 @@ We will hold your personal data (including sensitive personal data) on our syste
 
 Bounce’s Messenger bot is built on top of both Facebook Messenger and a 3rd party bot platform called Chatfuel. This means that all messages sent to our Messenger bot are also collected by Facebook and Chatfuel, and stored under the terms of their respective Privacy Policies, which must be agreed to separately:
 
-Facebook:  [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) 
+Facebook: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) 
 
-Chatfuel:  [https://chatfuel.com/PrivacyPolicy.pdf](https://chatfuel.com/PrivacyPolicy.pdf) 
+Chatfuel: [https://chatfuel.com/PrivacyPolicy.pdf](https://chatfuel.com/PrivacyPolicy.pdf) 
 
-We only provide internal data access to trained individuals within Bounce Technologies Limited, who have an understanding of GDPR and its implications. All personal data that you provide through the services is stored on Amazon Web Services, and you can find out more about their data privacy policies and procedures here:  [https://aws.amazon.com/compliance/data-privacy-faq/](https://aws.amazon.com/compliance/data-privacy-faq/) 
+We only provide internal data access to trained individuals within Bounce Technologies Limited, who have an understanding of GDPR and its implications. All personal data that you provide through the services is stored on Amazon Web Services, and you can find out more about their data privacy policies and procedures here: [https://aws.amazon.com/compliance/data-privacy-faq/](https://aws.amazon.com/compliance/data-privacy-faq/) 
 
 ## Transferring your personal data outside of Europe
 
 To enable the services offered to you through Bounce’s website and bot, the personal data which you provide to us may be transferred to countries outside the European Union (“EU”). These countries may not have similar data protection laws to the EU. If we transfer your personal data outside of the EU in this way, we will take steps to ensure that appropriate security measures are taken in order to ensure that your privacy rights continue to be protected as outlined in this Policy, by only transferring personal data to companies certified under the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework where possible. In addition, as highlighted above our service relies on Facebook and Chatfuel who may store your personal data outside the EU. In addition, if you use our services while you are outside the EU, your persona data may be transferred outside the EU in order for us to provide you with those services.
 Facebook and Chatfuel will also transfer your personal data outside of the EU. For details of the security measures they implement in order to ensure your right are protected, please visit their website:
 
-Facebook:  [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) 
+Facebook: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) 
 
-Chatfuel:  [https://chatfuel.com/PrivacyPolicy.pdf](https://chatfuel.com/PrivacyPolicy.pdf) 
+Chatfuel: [https://chatfuel.com/PrivacyPolicy.pdf](https://chatfuel.com/PrivacyPolicy.pdf) 
 
 ## Your data protection rights
 
@@ -135,4 +135,4 @@ We keep this Privacy Policy under regular review, and schedule ah in-depth revie
 
 ## How to contact us
 
-Please contact us if you have any questions about our privacy policy or personal data we hold about you by emailing our Data Protection Officer at  [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io) , or by post: Data Protection Office, Bounce Technologies Limited, 149 Preston Road, Brighton, BN1 6AF
+Please contact us if you have any questions about our privacy policy or personal data we hold about you by emailing our Data Protection Officer at [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io), or by post: Data Protection Office, Bounce Technologies Limited, 149 Preston Road, Brighton, BN1 6AF
