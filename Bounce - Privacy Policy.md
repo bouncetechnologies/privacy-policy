@@ -1,5 +1,7 @@
 # Privacy Policy
 
+#### Effective date: 1st March 2018
+
 At Bounce Technologies Limited, we’re committed to protecting and respecting your privacy. This Privacy Policy explains when and why we collect personal data (including sensitive personal data) about people who visit our website and our Facebook Messenger bot, how we use it, the conditions under which we may disclose it to others and how we keep it secure.
 
 We will update this Policy from time to time, so please check this page regularly to ensure that you’re happy with any changes, or alternatively follow our Twitter account, [https://twitter.com/bounce_bot](https://twitter.com/bounce_bot), for Privacy Policy updates. You can also see exactly what’s changed between versions of our privacy policy on our Github repository: [https://github.com/bouncetechnologies/privacy-policy](https://github.com/bouncetechnologies/privacy-policy)
