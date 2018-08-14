@@ -133,7 +133,7 @@ In addition, we will be unable to provide you our Messenger bot service if you d
 
 ## Updates and reviews to this Privacy Policy
 
-We keep this Privacy Policy under regular review, and schedule ah in-depth review of the Policy to take place every six months. This Privacy Policy was last updated on: 8th February 2018.
+We keep this Privacy Policy under regular review, and schedule ah in-depth review of the Policy to take place every six months. This Privacy Policy was last updated on: 14th August 2018.
 
 ## How to contact us
 
